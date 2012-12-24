@@ -1,0 +1,323 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# ming hsien tzang <tzangms@gmail.com>, 2011.
+# quantum9876 <quantum9876@gmail.com>, 2011.
+# tcc <tcchou@tcchou.org>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-es\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: tcc <tcchou@tcchou.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: es_provinces.py:5
+msgid "Araba"
+msgstr ""
+
+#: es_provinces.py:6
+msgid "Albacete"
+msgstr "阿爾瓦塞特"
+
+#: es_provinces.py:7
+msgid "Alacant"
+msgstr "阿利坎特"
+
+#: es_provinces.py:8
+msgid "Almeria"
+msgstr "阿爾梅里亞"
+
+#: es_provinces.py:9
+msgid "Avila"
+msgstr "阿維拉"
+
+#: es_provinces.py:10
+msgid "Badajoz"
+msgstr "巴達霍斯"
+
+#: es_provinces.py:11
+msgid "Illes Balears"
+msgstr "巴利阿里群島"
+
+#: es_provinces.py:12
+msgid "Barcelona"
+msgstr "巴塞羅那"
+
+#: es_provinces.py:13
+msgid "Burgos"
+msgstr "布爾戈斯"
+
+#: es_provinces.py:14
+msgid "Caceres"
+msgstr "卡塞雷斯"
+
+#: es_provinces.py:15
+msgid "Cadiz"
+msgstr "加迪斯"
+
+#: es_provinces.py:16
+msgid "Castello"
+msgstr "城堡"
+
+#: es_provinces.py:17
+msgid "Ciudad Real"
+msgstr "雷亞爾"
+
+#: es_provinces.py:18
+msgid "Cordoba"
+msgstr "科多巴"
+
+#: es_provinces.py:19
+msgid "A Coruna"
+msgstr "拉科魯納"
+
+#: es_provinces.py:20
+msgid "Cuenca"
+msgstr "昆卡"
+
+#: es_provinces.py:21
+msgid "Girona"
+msgstr "赫羅納"
+
+#: es_provinces.py:22
+msgid "Granada"
+msgstr "格拉納達"
+
+#: es_provinces.py:23
+msgid "Guadalajara"
+msgstr "瓜達拉哈拉"
+
+#: es_provinces.py:24
+msgid "Guipuzkoa"
+msgstr "吉普斯夸"
+
+#: es_provinces.py:25
+msgid "Huelva"
+msgstr "韋爾瓦"
+
+#: es_provinces.py:26
+msgid "Huesca"
+msgstr "韋斯卡"
+
+#: es_provinces.py:27
+msgid "Jaen"
+msgstr "哈恩"
+
+#: es_provinces.py:28
+msgid "Leon"
+msgstr "里昂"
+
+#: es_provinces.py:29
+msgid "Lleida"
+msgstr "萊里達"
+
+#: es_provinces.py:30 es_regions.py:17
+msgid "La Rioja"
+msgstr "里奧夏"
+
+#: es_provinces.py:31
+msgid "Lugo"
+msgstr "盧戈"
+
+#: es_provinces.py:32 es_regions.py:18
+msgid "Madrid"
+msgstr "馬德里"
+
+#: es_provinces.py:33
+msgid "Malaga"
+msgstr "馬拉加"
+
+#: es_provinces.py:34
+msgid "Murcia"
+msgstr "穆爾西亞"
+
+#: es_provinces.py:35
+msgid "Navarre"
+msgstr "納瓦拉"
+
+#: es_provinces.py:36
+msgid "Ourense"
+msgstr "奥倫斯"
+
+#: es_provinces.py:37
+msgid "Asturias"
+msgstr "阿斯杜里亞斯"
+
+#: es_provinces.py:38
+msgid "Palencia"
+msgstr "帕倫西亞"
+
+#: es_provinces.py:39
+msgid "Las Palmas"
+msgstr "洛斯卡布斯"
+
+#: es_provinces.py:40
+msgid "Pontevedra"
+msgstr "蓬特韋德拉"
+
+#: es_provinces.py:41
+msgid "Salamanca"
+msgstr "薩拉曼卡"
+
+#: es_provinces.py:42
+msgid "Santa Cruz de Tenerife"
+msgstr "聖克魯斯-德特內裡費"
+
+#: es_provinces.py:43 es_regions.py:11
+msgid "Cantabria"
+msgstr "坎塔布里亞"
+
+#: es_provinces.py:44
+msgid "Segovia"
+msgstr "塞哥維亞"
+
+#: es_provinces.py:45
+msgid "Seville"
+msgstr "塞維利亞"
+
+#: es_provinces.py:46
+msgid "Soria"
+msgstr "索里亞"
+
+#: es_provinces.py:47
+msgid "Tarragona"
+msgstr "塔拉戈納"
+
+#: es_provinces.py:48
+msgid "Teruel"
+msgstr "特魯埃爾"
+
+#: es_provinces.py:49
+msgid "Toledo"
+msgstr "托萊多"
+
+#: es_provinces.py:50
+msgid "Valencia"
+msgstr "巴倫西亞"
+
+#: es_provinces.py:51
+msgid "Valladolid"
+msgstr "瓦利阿多里德"
+
+#: es_provinces.py:52
+msgid "Bizkaia"
+msgstr "巴斯克"
+
+#: es_provinces.py:53
+msgid "Zamora"
+msgstr "薩莫拉"
+
+#: es_provinces.py:54
+msgid "Zaragoza"
+msgstr "薩拉戈薩"
+
+#: es_provinces.py:55
+msgid "Ceuta"
+msgstr "休達"
+
+#: es_provinces.py:56
+msgid "Melilla"
+msgstr "梅利利亞"
+
+#: es_regions.py:5
+msgid "Andalusia"
+msgstr "安達魯西亞"
+
+#: es_regions.py:6
+msgid "Aragon"
+msgstr "阿拉貢"
+
+#: es_regions.py:7
+msgid "Principality of Asturias"
+msgstr ""
+
+#: es_regions.py:8
+msgid "Balearic Islands"
+msgstr "巴利阿里群島"
+
+#: es_regions.py:9
+msgid "Basque Country"
+msgstr "巴斯克地區"
+
+#: es_regions.py:10
+msgid "Canary Islands"
+msgstr "加那利群島"
+
+#: es_regions.py:12
+msgid "Castile-La Mancha"
+msgstr "卡斯提爾-拉曼查"
+
+#: es_regions.py:13
+msgid "Castile and Leon"
+msgstr "卡斯蒂利亞和里昂"
+
+#: es_regions.py:14
+msgid "Catalonia"
+msgstr "加泰隆尼亞"
+
+#: es_regions.py:15
+msgid "Extremadura"
+msgstr "艾司德雷馬度"
+
+#: es_regions.py:16
+msgid "Galicia"
+msgstr "加利西亞"
+
+#: es_regions.py:19
+msgid "Region of Murcia"
+msgstr "穆爾西亞地區"
+
+#: es_regions.py:20
+msgid "Foral Community of Navarre"
+msgstr "納瓦爾王國"
+
+#: es_regions.py:21
+msgid "Valencian Community"
+msgstr "瓦倫西亞自治區"
+
+#: forms.py:26
+msgid "Enter a valid postal code in the range and format 01XXX - 52XXX."
+msgstr "輸入範圍 01XXX - 52XXX 的郵遞區號。"
+
+#: forms.py:46
+msgid ""
+"Enter a valid phone number in one of the formats 6XXXXXXXX, 8XXXXXXXX or "
+"9XXXXXXXX."
+msgstr "以 6XXXXXXXX, 8XXXXXXXX 或 9XXXXXXXX 的格式輸入電話號碼。"
+
+#: forms.py:73
+msgid "Please enter a valid NIF, NIE, or CIF."
+msgstr "輸入正確的 NIF, NIE 或 CIF。"
+
+#: forms.py:74
+msgid "Please enter a valid NIF or NIE."
+msgstr "輸入正確的 NIF 或 NIE。"
+
+#: forms.py:75
+msgid "Invalid checksum for NIF."
+msgstr "無效的 NIF 校驗和。"
+
+#: forms.py:76
+msgid "Invalid checksum for NIE."
+msgstr "無效的 NIE 校驗和。"
+
+#: forms.py:77
+msgid "Invalid checksum for CIF."
+msgstr "無效的 CIF 校驗和。"
+
+#: forms.py:149
+msgid ""
+"Please enter a valid bank account number in format XXXX-XXXX-XX-XXXXXXXXXX."
+msgstr "請輸入一個有效的銀行值帳號，格式為 XXXX-XXXX-XX-XXXXXXXXXX。"
+
+#: forms.py:150
+msgid "Invalid checksum for bank account number."
+msgstr "無效的銀行帳號校驗和。"

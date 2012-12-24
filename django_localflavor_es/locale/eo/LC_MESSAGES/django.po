@@ -1,0 +1,324 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jaffa McNeill <jaffa.mcneill@gmail.com>, 2012.
+#   <kristjan.schmidt@googlemail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-es\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jaffa McNeill <jaffa.mcneill@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: es_provinces.py:5
+msgid "Araba"
+msgstr ""
+
+#: es_provinces.py:6
+msgid "Albacete"
+msgstr "Albaketo"
+
+#: es_provinces.py:7
+msgid "Alacant"
+msgstr "Alikanto"
+
+#: es_provinces.py:8
+msgid "Almeria"
+msgstr "Almerio"
+
+#: es_provinces.py:9
+msgid "Avila"
+msgstr "Avilo "
+
+#: es_provinces.py:10
+msgid "Badajoz"
+msgstr "Badaĥozo"
+
+#: es_provinces.py:11
+msgid "Illes Balears"
+msgstr "Balearoj"
+
+#: es_provinces.py:12
+msgid "Barcelona"
+msgstr "Barcelono "
+
+#: es_provinces.py:13
+msgid "Burgos"
+msgstr "Burgoso"
+
+#: es_provinces.py:14
+msgid "Caceres"
+msgstr "Cakereso"
+
+#: es_provinces.py:15
+msgid "Cadiz"
+msgstr "Kadizo"
+
+#: es_provinces.py:16
+msgid "Castello"
+msgstr "Kastelo"
+
+#: es_provinces.py:17
+msgid "Ciudad Real"
+msgstr "Kjudad Realo"
+
+#: es_provinces.py:18
+msgid "Cordoba"
+msgstr "Kordoba"
+
+#: es_provinces.py:19
+msgid "A Coruna"
+msgstr "Korunjo"
+
+#: es_provinces.py:20
+msgid "Cuenca"
+msgstr "Kuenco"
+
+#: es_provinces.py:21
+msgid "Girona"
+msgstr "Ĝirono"
+
+#: es_provinces.py:22
+msgid "Granada"
+msgstr "Granado"
+
+#: es_provinces.py:23
+msgid "Guadalajara"
+msgstr "Gvadalaharo"
+
+#: es_provinces.py:24
+msgid "Guipuzkoa"
+msgstr "Gipuzkoa"
+
+#: es_provinces.py:25
+msgid "Huelva"
+msgstr "Onubo"
+
+#: es_provinces.py:26
+msgid "Huesca"
+msgstr "Uesko"
+
+#: es_provinces.py:27
+msgid "Jaen"
+msgstr "Ĥaeno"
+
+#: es_provinces.py:28
+msgid "Leon"
+msgstr "Leono"
+
+#: es_provinces.py:29
+msgid "Lleida"
+msgstr "Ilerdo"
+
+#: es_provinces.py:30 es_regions.py:17
+msgid "La Rioja"
+msgstr "Rioĥo"
+
+#: es_provinces.py:31
+msgid "Lugo"
+msgstr ""
+
+#: es_provinces.py:32 es_regions.py:18
+msgid "Madrid"
+msgstr "Madrido"
+
+#: es_provinces.py:33
+msgid "Malaga"
+msgstr "Malago"
+
+#: es_provinces.py:34
+msgid "Murcia"
+msgstr "Murcio"
+
+#: es_provinces.py:35
+msgid "Navarre"
+msgstr "Navaro"
+
+#: es_provinces.py:36
+msgid "Ourense"
+msgstr "Orenso"
+
+#: es_provinces.py:37
+msgid "Asturias"
+msgstr "Asturio"
+
+#: es_provinces.py:38
+msgid "Palencia"
+msgstr "Palencio"
+
+#: es_provinces.py:39
+msgid "Las Palmas"
+msgstr "Las Palmaso"
+
+#: es_provinces.py:40
+msgid "Pontevedra"
+msgstr "Pontevedro"
+
+#: es_provinces.py:41
+msgid "Salamanca"
+msgstr "Salamanco"
+
+#: es_provinces.py:42
+msgid "Santa Cruz de Tenerife"
+msgstr "Sant-Kruzo de Tenerifo"
+
+#: es_provinces.py:43 es_regions.py:11
+msgid "Cantabria"
+msgstr "Kantabrio"
+
+#: es_provinces.py:44
+msgid "Segovia"
+msgstr "Segovio"
+
+#: es_provinces.py:45
+msgid "Seville"
+msgstr "Sevilo"
+
+#: es_provinces.py:46
+msgid "Soria"
+msgstr "Sorio"
+
+#: es_provinces.py:47
+msgid "Tarragona"
+msgstr "Taragono"
+
+#: es_provinces.py:48
+msgid "Teruel"
+msgstr "Teruelo"
+
+#: es_provinces.py:49
+msgid "Toledo"
+msgstr ""
+
+#: es_provinces.py:50
+msgid "Valencia"
+msgstr "Valencio"
+
+#: es_provinces.py:51
+msgid "Valladolid"
+msgstr "Valadolido"
+
+#: es_provinces.py:52
+msgid "Bizkaia"
+msgstr "Biskajo"
+
+#: es_provinces.py:53
+msgid "Zamora"
+msgstr "Zamoro"
+
+#: es_provinces.py:54
+msgid "Zaragoza"
+msgstr "Zaragozo"
+
+#: es_provinces.py:55
+msgid "Ceuta"
+msgstr "Ceŭto"
+
+#: es_provinces.py:56
+msgid "Melilla"
+msgstr "Melilo"
+
+#: es_regions.py:5
+msgid "Andalusia"
+msgstr "Andaluzio"
+
+#: es_regions.py:6
+msgid "Aragon"
+msgstr "Aragono"
+
+#: es_regions.py:7
+msgid "Principality of Asturias"
+msgstr "Princlando de Asturio"
+
+#: es_regions.py:8
+msgid "Balearic Islands"
+msgstr "La Balearoj"
+
+#: es_regions.py:9
+msgid "Basque Country"
+msgstr "Eŭskio"
+
+#: es_regions.py:10
+msgid "Canary Islands"
+msgstr "La Kanaraj insuloj"
+
+#: es_regions.py:12
+msgid "Castile-La Mancha"
+msgstr "Kastilio-Manĉo"
+
+#: es_regions.py:13
+msgid "Castile and Leon"
+msgstr "Kastilio kaj leon"
+
+#: es_regions.py:14
+msgid "Catalonia"
+msgstr "Katalunio"
+
+#: es_regions.py:15
+msgid "Extremadura"
+msgstr "Ekstremaduro"
+
+#: es_regions.py:16
+msgid "Galicia"
+msgstr "Galegio"
+
+#: es_regions.py:19
+msgid "Region of Murcia"
+msgstr "Regiono de Murcio"
+
+#: es_regions.py:20
+msgid "Foral Community of Navarre"
+msgstr "Luita Komunuma de Navaro"
+
+#: es_regions.py:21
+msgid "Valencian Community"
+msgstr "Valencia komunumo"
+
+#: forms.py:26
+msgid "Enter a valid postal code in the range and format 01XXX - 52XXX."
+msgstr "Enigu validan poŝtan kodon en la gamo kaj formato 01XXX - 52XXX."
+
+#: forms.py:46
+msgid ""
+"Enter a valid phone number in one of the formats 6XXXXXXXX, 8XXXXXXXX or "
+"9XXXXXXXX."
+msgstr ""
+"Enigu validan telefonnumeron laŭformate 6XXXXXXXX, 8XXXXXXXX aŭ 9XXXXXXXX."
+
+#: forms.py:73
+msgid "Please enter a valid NIF, NIE, or CIF."
+msgstr "Bonvolu enigu validan NIF, NIE, aŭ CIF."
+
+#: forms.py:74
+msgid "Please enter a valid NIF or NIE."
+msgstr "Bonvolu enigu validan NIF aŭ NIE."
+
+#: forms.py:75
+msgid "Invalid checksum for NIF."
+msgstr "Nevalida kontrolsumo por NIF."
+
+#: forms.py:76
+msgid "Invalid checksum for NIE."
+msgstr "Nevalida kontrolsumo por NIE."
+
+#: forms.py:77
+msgid "Invalid checksum for CIF."
+msgstr "Nevalida kontrolsumo por CIF."
+
+#: forms.py:149
+msgid ""
+"Please enter a valid bank account number in format XXXX-XXXX-XX-XXXXXXXXXX."
+msgstr ""
+"Bonvolu enigu validan bankokonton nombron laŭformate  XXXX-XXXX-XX-"
+"XXXXXXXXXX."
+
+#: forms.py:150
+msgid "Invalid checksum for bank account number."
+msgstr "Nevalida kontrolsumo por bankokonto nombro."

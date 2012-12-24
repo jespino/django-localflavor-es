@@ -1,0 +1,321 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jaehong Kim <mixe@korea.com>, 2011.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-es\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jaehong Kim <mixe@korea.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: es_provinces.py:5
+msgid "Araba"
+msgstr ""
+
+#: es_provinces.py:6
+msgid "Albacete"
+msgstr "알바세테 주"
+
+#: es_provinces.py:7
+msgid "Alacant"
+msgstr "알리칸테 주"
+
+#: es_provinces.py:8
+msgid "Almeria"
+msgstr "알메리아 주"
+
+#: es_provinces.py:9
+msgid "Avila"
+msgstr "아빌라 주"
+
+#: es_provinces.py:10
+msgid "Badajoz"
+msgstr "바다호스 주"
+
+#: es_provinces.py:11
+msgid "Illes Balears"
+msgstr "발레아레스 제도"
+
+#: es_provinces.py:12
+msgid "Barcelona"
+msgstr "바르셀로나 주"
+
+#: es_provinces.py:13
+msgid "Burgos"
+msgstr "부르고스 주"
+
+#: es_provinces.py:14
+msgid "Caceres"
+msgstr "카세레스 주"
+
+#: es_provinces.py:15
+msgid "Cadiz"
+msgstr "카디스 주"
+
+#: es_provinces.py:16
+msgid "Castello"
+msgstr "카스테욘 주"
+
+#: es_provinces.py:17
+msgid "Ciudad Real"
+msgstr "시우다드레알 주"
+
+#: es_provinces.py:18
+msgid "Cordoba"
+msgstr "코르도바 주"
+
+#: es_provinces.py:19
+msgid "A Coruna"
+msgstr "라코루냐 주"
+
+#: es_provinces.py:20
+msgid "Cuenca"
+msgstr "쿠엥카 주"
+
+#: es_provinces.py:21
+msgid "Girona"
+msgstr "헤로나 주"
+
+#: es_provinces.py:22
+msgid "Granada"
+msgstr "그라나다 주"
+
+#: es_provinces.py:23
+msgid "Guadalajara"
+msgstr "과달라하라 주"
+
+#: es_provinces.py:24
+msgid "Guipuzkoa"
+msgstr "기푸스코아 주"
+
+#: es_provinces.py:25
+msgid "Huelva"
+msgstr "우엘바 주"
+
+#: es_provinces.py:26
+msgid "Huesca"
+msgstr "우에스카 주"
+
+#: es_provinces.py:27
+msgid "Jaen"
+msgstr "하엔 주"
+
+#: es_provinces.py:28
+msgid "Leon"
+msgstr "레온 주"
+
+#: es_provinces.py:29
+msgid "Lleida"
+msgstr "레리다 주"
+
+#: es_provinces.py:30 es_regions.py:17
+msgid "La Rioja"
+msgstr "라리오하 주"
+
+#: es_provinces.py:31
+msgid "Lugo"
+msgstr "루고 주"
+
+#: es_provinces.py:32 es_regions.py:18
+msgid "Madrid"
+msgstr "마드리드 주"
+
+#: es_provinces.py:33
+msgid "Malaga"
+msgstr "말라가 주"
+
+#: es_provinces.py:34
+msgid "Murcia"
+msgstr "무르시아 주"
+
+#: es_provinces.py:35
+msgid "Navarre"
+msgstr "나바라 주"
+
+#: es_provinces.py:36
+msgid "Ourense"
+msgstr "오렌세 주"
+
+#: es_provinces.py:37
+msgid "Asturias"
+msgstr "아스투리아스 주"
+
+#: es_provinces.py:38
+msgid "Palencia"
+msgstr "팔렌시아 주"
+
+#: es_provinces.py:39
+msgid "Las Palmas"
+msgstr "라스팔마스 주"
+
+#: es_provinces.py:40
+msgid "Pontevedra"
+msgstr "폰테베드라 주"
+
+#: es_provinces.py:41
+msgid "Salamanca"
+msgstr "살라망카 주"
+
+#: es_provinces.py:42
+msgid "Santa Cruz de Tenerife"
+msgstr "산타크루스데테네리페 주"
+
+#: es_provinces.py:43 es_regions.py:11
+msgid "Cantabria"
+msgstr "칸타브리아 주"
+
+#: es_provinces.py:44
+msgid "Segovia"
+msgstr "세고비아 주"
+
+#: es_provinces.py:45
+msgid "Seville"
+msgstr "세비야 주"
+
+#: es_provinces.py:46
+msgid "Soria"
+msgstr "소리아 주"
+
+#: es_provinces.py:47
+msgid "Tarragona"
+msgstr "타라고나 주"
+
+#: es_provinces.py:48
+msgid "Teruel"
+msgstr "테루엘 주"
+
+#: es_provinces.py:49
+msgid "Toledo"
+msgstr "톨레도 주"
+
+#: es_provinces.py:50
+msgid "Valencia"
+msgstr "발렌시아 주"
+
+#: es_provinces.py:51
+msgid "Valladolid"
+msgstr "바야돌리드 주"
+
+#: es_provinces.py:52
+msgid "Bizkaia"
+msgstr "비스카야 주"
+
+#: es_provinces.py:53
+msgid "Zamora"
+msgstr "사모라 주"
+
+#: es_provinces.py:54
+msgid "Zaragoza"
+msgstr "사라고사 주"
+
+#: es_provinces.py:55
+msgid "Ceuta"
+msgstr "세우타 자치주"
+
+#: es_provinces.py:56
+msgid "Melilla"
+msgstr "멜리야 주"
+
+#: es_regions.py:5
+msgid "Andalusia"
+msgstr "안달루시아 주"
+
+#: es_regions.py:6
+msgid "Aragon"
+msgstr "아라곤 주"
+
+#: es_regions.py:7
+msgid "Principality of Asturias"
+msgstr "아스투리아스 지방"
+
+#: es_regions.py:8
+msgid "Balearic Islands"
+msgstr "발레아레스 제도"
+
+#: es_regions.py:9
+msgid "Basque Country"
+msgstr "바스크 지방"
+
+#: es_regions.py:10
+msgid "Canary Islands"
+msgstr "카나리 제도"
+
+#: es_regions.py:12
+msgid "Castile-La Mancha"
+msgstr "카스티야라만차 지방"
+
+#: es_regions.py:13
+msgid "Castile and Leon"
+msgstr "카스티야레온 지방"
+
+#: es_regions.py:14
+msgid "Catalonia"
+msgstr "카탈로니아 지방"
+
+#: es_regions.py:15
+msgid "Extremadura"
+msgstr "에스트레마두라 지방"
+
+#: es_regions.py:16
+msgid "Galicia"
+msgstr "갈리시아 지방"
+
+#: es_regions.py:19
+msgid "Region of Murcia"
+msgstr "무르시아 지방"
+
+#: es_regions.py:20
+msgid "Foral Community of Navarre"
+msgstr "나바라 지방"
+
+#: es_regions.py:21
+msgid "Valencian Community"
+msgstr "발렌시아 지방"
+
+#: forms.py:26
+msgid "Enter a valid postal code in the range and format 01XXX - 52XXX."
+msgstr "우편번호를 입력하세요. (01XXX - 52XXX 형식)"
+
+#: forms.py:46
+msgid ""
+"Enter a valid phone number in one of the formats 6XXXXXXXX, 8XXXXXXXX or "
+"9XXXXXXXX."
+msgstr "올바른 전화번호를 입력하세요. (6XXXXXXXX, 8XXXXXXXX 또는 9XXXXXXXX 형식)"
+
+#: forms.py:73
+msgid "Please enter a valid NIF, NIE, or CIF."
+msgstr "올바른 NIF, NIE 또는 CIF를 입력하세요."
+
+#: forms.py:74
+msgid "Please enter a valid NIF or NIE."
+msgstr "올바른 NIF 또는 NIE를 입력하세요."
+
+#: forms.py:75
+msgid "Invalid checksum for NIF."
+msgstr "NIF의 체크섬이 틀립니다."
+
+#: forms.py:76
+msgid "Invalid checksum for NIE."
+msgstr "NIE의 체크섬이 틀립니다."
+
+#: forms.py:77
+msgid "Invalid checksum for CIF."
+msgstr "CIF의 체크섬이 틀립니다."
+
+#: forms.py:149
+msgid ""
+"Please enter a valid bank account number in format XXXX-XXXX-XX-XXXXXXXXXX."
+msgstr "올바른 계좌번호를 입력하세요. (XXXX-XXXX-XX-XXXXXXXXXX 형식)"
+
+#: forms.py:150
+msgid "Invalid checksum for bank account number."
+msgstr "계좌번호의 체크섬이 틀립니다."
